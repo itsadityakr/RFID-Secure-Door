@@ -1,5 +1,4 @@
-Certainly! Here's a more detailed description for your GitHub repository:
-### Arduino-Based RFID Door Lock System
+# Arduino-Based RFID Door Lock System
 
 **Overview:**
 This project demonstrates a comprehensive Arduino-based RFID door lock system designed for secure access control. Utilizing the MFRC522 RFID reader module, a servo motor for door mechanism control, and both LEDs and a buzzer for user feedback, this system ensures reliable and convenient access management.
